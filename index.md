@@ -1,91 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hao Li's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hao Li
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Victoria, British Columbia, Canada | lihy84@gmail.com | 250-885-8494
 
+[LinkedIn](https://linkedin.com/in/lihaoyang) | [Portfolio](https://haos.io)
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+Senior Full-Stack Developer with over 9 years of experience in software development, specializing in backend technologies. Expertise in Node.js, AWS, and PostgreSQL. Proven ability to design robust, scalable applications that enhance operational efficiency. Notably led the transition from traditional MVC to modern APIs at Stocksy, increasing system reliability and scalability by 35%. Seeking to leverage my skills in a dynamic team that values continuous learning, remote work, and complex problem-solving with cutting-edge technologies.
 
-### Specialized in
+## Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Software Engineer | Levels | Jul 2020 - Mar 2023 (2 years 9 months)
 
+- Implemented an in-house feature-flag system, improving code quality and deployment ease.
+- Integrated a headless browser microservice for server-side data crawling and PDF rendering, enhancing performance and maintainability.
+- Developed and maintained full-stack applications, increasing company efficiency by 20%.
+- Built a secure GraphQL API, expanding functionality through third-party API integrations.
+- Utilized TypeScript, Node.js, Next.js, Aptible, and AWS to expedite product delivery and deployment.
+- Reduced system downtime by 15% through troubleshooting and resolving complex software issues.
 
-### Research interests
+### Software Engineer | Ingrooves Music Group | Sep 2019 - Jul 2020 (11 months)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Launched full-feature stores by integrating React components and REST API endpoints, enhancing user experience.
+- Improved project turnaround time by 30% by developing CI/CD stages for swift testing and deployment.
+- Enhanced system performance and reliability by 25% by revolutionizing the database migration workflow using TypeORM and PostgreSQL.
 
+### Software Engineer | Stocksy | Nov 2017 - Sep 2019 (1 year 11 months)
+
+- Led the transition from traditional MVC to modern APIs with AWS services, increasing system reliability and scalability by 35%.
+- Increased system security by integrating AWS Cognito & Amplify.
+- Developed a complex voting system for coop members, boosting engagement and feedback processes by 40%.
+- Collaborated with UX designers to develop reusable UI components in React and ES6, improving UI consistency and developer productivity by 20%.
+- Improved data accessibility and responsiveness by 30% by developing secure and scalable APIs using PHP and RESTful architectural style.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### University of Victoria | Bachelor of Science, Computer Science | 2011 - 2014
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Skills
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Databases, Node.js, AWS, React.js, Web Applications, PostgreSQL, Next.js, Microservices, Git, TypeScript
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2023 -->
 
 
